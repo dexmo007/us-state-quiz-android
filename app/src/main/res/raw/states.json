@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "capitol": "Montgomery",
+    "biggestCity": "Birmingham"
+  },
+  {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "capitol": "Juneau",
+    "biggestCity": "Anchorage"
+  },
+  {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "capitol": "Phoenix"
+  },
+  {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "capitol": "Little Rock"
+  },
+  {
+    "name": "California",
+    "abbreviation": "CA",
+    "capitol": "Sacramento",
+    "biggestCity": "Los Angeles"
+  },
+  {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "capitol": "Denver"
+  },
+  {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "capitol": "Hardfort",
+    "biggestCity": "Bridgeport"
+  },
+  {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "capitol": "Dover",
+    "biggestCity": "Wilmington"
+  },
+  {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "capitol": "Tallahassee",
+    "biggestCity": "Jacksonville"
+  },
+  {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "capitol": "Atlanta"
+  },
+  {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "capitol": "Honolulu"
+  },
+  {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "capitol": "Boise"
+  },
+  {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "capitol": "Springfield",
+    "biggestCity": "Chicago"
+  },
+  {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "capitol": "Indianapolis"
+  },
+  {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "capitol": "Des Moines"
+  },
+  {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "capitol": "Topeka",
+    "biggestCity": "Wichita"
+  },
+  {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "capitol": "Frankfort",
+    "biggestCity": "Lexington"
+  },
+  {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "capitol": "Baton Rouge",
+    "biggestCity": "New Orleans"
+  },
+  {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "capitol": "Augusta",
+    "biggestCity": "Portland"
+  },
+  {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "capitol": "Annapolis",
+    "biggestCity": "Baltimore"
+  },
+  {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "capitol": "Boston"
+  },
+  {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "capitol": "Lansing",
+    "biggestCity": "Detroit"
+  },
+  {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "capitol": "St. Paul",
+    "biggestCity": "Minneapolis"
+  },
+  {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "capitol": "Jackson"
+  },
+  {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "capitol": "Jefferson City",
+    "biggestCity": "Kansas City"
+  },
+  {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "capitol": "Helena",
+    "biggestCity": "Billings"
+  },
+  {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "capitol": "Lincoln",
+    "biggestCity": "Omaha"
+  },
+  {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "capitol": "Carson City",
+    "biggestCity": "Las Vegas"
+  },
+  {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "capitol": "Concord",
+    "biggestCity": "Manchester"
+  },
+  {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "capitol": "Trenton",
+    "biggestCity": "Newark"
+  },
+  {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "capitol": "Albuquerque",
+    "biggestCity": "Santa Fe"
+  },
+  {
+    "name": "New York",
+    "abbreviation": "NY",
+    "capitol": "Albany",
+    "biggestCity": "New York"
+  },
+  {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "capitol": "Raleigh",
+    "biggestCity": "Charlotte"
+  },
+  {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "capitol": "Bismarck",
+    "biggestCity": "Fargo"
+  },
+  {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "capitol": "Columbus"
+  },
+  {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "capitol": "Oklahoma City"
+  },
+  {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "capitol": "Salem",
+    "biggestCity": "Portland"
+  },
+  {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "capitol": "Harrisburg",
+    "biggestCity": "Philadelphia"
+  },
+  {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "capitol": "Providence"
+  },
+  {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "capitol": "Columbia"
+  },
+  {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "capitol": "Pierre",
+    "biggestCity": "Sioux Falls"
+  },
+  {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "capitol": "Nashville",
+    "biggestCity": "Memphis"
+  },
+  {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "capitol": "Austin",
+    "biggestCity": "Houston"
+  },
+  {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "capitol": "Salt Lake City"
+  },
+  {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "capitol": "Montpelier",
+    "biggestCity": "Burlington"
+  },
+  {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "capitol": "Richmond",
+    "biggestCity": "Virginia Beach"
+  },
+  {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "capitol": "Olympia",
+    "biggestCity": "Seattle"
+  },
+  {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "capitol": "Charleston"
+  },
+  {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "capitol": "Madison",
+    "biggestCity": "Milwaukee"
+  },
+  {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "capitol": "Cheyenne"
+  }
+]
